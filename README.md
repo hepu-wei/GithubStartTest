@@ -1,2 +1,2 @@
 # GithubStartTest
-This is for be familiar with github
+This is for being familiar with github
